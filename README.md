@@ -1,3 +1,3 @@
 # fuego
 fuego de la vita
-# a lire vant de commencer
+# a lire avant de commencer

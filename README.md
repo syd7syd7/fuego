@@ -10,3 +10,4 @@ It begins now until 60 days
 hello tout le monde
 NFT Stepn Oyabun
 # In game events 
+Tournament of yakuzas

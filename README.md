@@ -11,4 +11,5 @@ hello tout le monde
 NFT Stepn Oyabun
 # In game events 
 Tournament of yakuzas
-Mechanic of foghts
+Mechanic of fights
+Rules

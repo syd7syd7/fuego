@@ -13,3 +13,4 @@ NFT Stepn Oyabun
 Tournament of yakuzas
 Mechanic of fights
 Rules
+you must fight every day

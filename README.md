@@ -14,3 +14,4 @@ Tournament of yakuzas
 Mechanic of fights
 Rules
 you must fight every day
+your opponant will be chosen randomly

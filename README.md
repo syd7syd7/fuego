@@ -17,3 +17,4 @@ you must fight every day
 your opponant will be chosen randomly
 # part three
 Staking
+lending borowing

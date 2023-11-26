@@ -19,3 +19,5 @@ your opponant will be chosen randomly
 Staking
 lending borowing
 Hola oli
+Barbapapa
+
